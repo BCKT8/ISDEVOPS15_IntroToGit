@@ -1,2 +1,2 @@
 # My First Git Project
-Student: Kyle Taguiwalo - Introduction to Git
+Student: Kyle Taguiwalo - Intro to DevOps
